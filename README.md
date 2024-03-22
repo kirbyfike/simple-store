@@ -1,8 +1,13 @@
 # Getting Started with ct Simple Storefront
-### 'Create API Client keys in ct Merchant Center'
-### 'Copy keys into commercetools.js'
-### 'yarn install'
-### 'yarn start'
+### Setup 
+- Create API Client keys in ct Merchant Center
+- Copy keys into commercetools.js
+
+### Install Packages
+yarn install
+
+### Start Locally
+yarn start
 
 
 
